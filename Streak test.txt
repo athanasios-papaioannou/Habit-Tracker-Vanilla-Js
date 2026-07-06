@@ -1,0 +1,13 @@
+✏️ ΤΡΟΠΟΣ 1 — Γρήγορο test (manual edit)
+
+Άνοιξε Console και γράψε:
+
+habits[0].dates = ["2026-05-04", "2026-05-03", "2026-05-02"];
+saveHabits();
+renderHabits();
+
+👀 Τι θα γίνει
+👉 Το πρώτο habit θα δείξει: 🔥 3
+
+🧠 Τι έκανες εδώ
+👉 “Mocked” data
