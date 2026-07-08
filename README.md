@@ -82,6 +82,10 @@ Some of the concepts explored include:
 
 ---
 
+## ⚙ Version
+
+Current Release: **v1.2**
+
 ## 👨‍💻 Author
 
 Developed by **Athanasios Papaioannou**
